@@ -12,6 +12,7 @@ npm i direx
 var direx = require('direx');
 
 direx("path/to/directory").then((res) => {
+// Example of res
 // {
 //    pics: {
 //      spring: {
