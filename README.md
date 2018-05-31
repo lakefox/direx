@@ -24,6 +24,6 @@ direx("path/to/directory").then((res) => {
 //        }
 //    }
 //  }
-  Do whatever...
+//  Do whatever...
 });
 ```
