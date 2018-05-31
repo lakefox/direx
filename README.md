@@ -1,4 +1,13 @@
 # direx
 Export Directory Via a JSON File
 
-# How to Install
+# Install
+```
+npm i direx
+```
+
+# How to Use
+
+``` javascript
+
+```
